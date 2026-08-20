@@ -36,7 +36,7 @@ on the web index, we use 960x137 ads (horizontal banner) ads. you can use whatev
 
 if you want different size ads, we would recommend making another one of the tpwa.js file and another campaigns.json, and change the top variable accoridingly. eg, one campaigns.json could be for vertical ads, another for horizontal ones, another for hero ads, etc.
 
-we also have a list of what campaigns and ads we run on the web index. check it out here:
+we also have a list of what campaigns and ads we run on the web index. check it out here: https://the-web-index.surge.sh/ads.html
 
 # notes
 
