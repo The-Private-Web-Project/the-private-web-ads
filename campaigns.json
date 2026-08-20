@@ -1,0 +1,15 @@
+{
+  "example-ad1": [
+    {
+      "url": "https://example.com",
+      "img": "https://example.com/ad1.jpg"
+    }
+  ],
+
+  "example-ad2": [
+    {
+        "url": "https://example.com",
+        "img": "https://example.com/ad2.jpg"
+    }
+  ]
+}
